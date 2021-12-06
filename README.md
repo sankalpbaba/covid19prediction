@@ -36,13 +36,15 @@ System Optimization:
 	**  DATASET 	** 
   IT CONSITIS OF 20 FEATURES (SYMPOTOMS) , AND DEPENDENT VARIBLE/OUTPUT i.e. WETHER PERSON HAS COVID OR NOT.
   The dataset had imbalanced distribution but i cleaned the dataset and made it balanced.
-  PREDICTION-98.16%
-  
-  STANDARD DEVIATION-0.60%
-  
-   OUTPUT SCREENSHOT-
-   ![Screenshot (356)](https://user-images.githubusercontent.com/90260133/137303744-ac0a2252-b1af-44c2-85b8-5cf897c4a1f6.png)
-   ![Screenshot (355)](https://user-images.githubusercontent.com/90260133/137303972-ba2af60a-2765-4eae-9806-8c0c5f2f192c.png)
+  PREDICTION-98.21%
+  Avg Bias: 0.012
+  Avg Variance: 0.008
+     OUTPUT SCREENSHOT-
+   ![Screenshot (474)](https://user-images.githubusercontent.com/90260133/144844055-1fdcfcf4-6581-4880-ad05-564e56088871.png)
+  Accuracy: 98.73 %
+  Standard Deviation: 1.18 %
+  ![Screenshot (476)](https://user-images.githubusercontent.com/90260133/144844264-190bb319-af54-468e-9b12-b744e4291036.png)
+
     
     
   
